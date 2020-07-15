@@ -37202,3 +37202,4 @@
 37201	fabricacion_de_medicamento	RELACIONADO	autorizacion_de_comercializacion_del_medicamento
 37202	indicacion_geografica_protegida	RELACIONADO	indicacion_geografica
 37203	cumplimiento_negligente	RELACIONADO	cumplimiento_defectuoso
+37204	daño_indemnizable	RELACIONADO	daño_desproporcionado
