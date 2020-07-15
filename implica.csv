@@ -1,4 +1,3 @@
-	a	IMPLICA	b
 0	delito_continuado_de_abandono_de_familia	IMPLICA	abandono_de_familia
 1	daños_causados_por_el_incendio	IMPLICA	incendio
 2	responsabilidad_de_los_daños_causados_por_incendio	IMPLICA	daños_causados_por_el_incendio
